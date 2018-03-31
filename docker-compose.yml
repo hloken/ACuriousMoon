@@ -1,5 +1,6 @@
 version: '2'
 
+# Before running docker-compose first time, do this to create a volume for storage outside the container
 # docker volume create --name postgres-data -d local
 
 services:
