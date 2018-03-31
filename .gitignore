@@ -1,0 +1,10 @@
+*.obj
+*.exe
+*.pdb
+*.tlb
+*.tlh
+*.lib
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
