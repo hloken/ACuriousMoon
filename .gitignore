@@ -8,3 +8,5 @@
 .vs/
 #Nuget packages folder
 packages/
+/src/tools/Cake/
+/src/tools/NUnit.ConsoleRunner*
