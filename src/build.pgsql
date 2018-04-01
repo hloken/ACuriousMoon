@@ -15,4 +15,4 @@ create table import.master_plan(
     description text
 );
 
-\COPY import.master_plan FROM 'D:\\Projects\GitHub\ACuriousMoon\master_plan.csv' WITH DELIMITER ',' HEADER CSV;
+\COPY import.master_plan FROM 'D:\\Projects\GitHub\ACuriousMoon\src\data\master_plan.csv' WITH DELIMITER ',' HEADER CSV;
